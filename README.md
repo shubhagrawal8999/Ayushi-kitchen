@@ -24,5 +24,7 @@ in a bigger one.
 
 ### What's in this repo
 This repo now documents/hosts [describe current state — e.g. "a lightweight 
+## This is how I used AI to brainstorm and improve an idea before writing any code 
+https://claude.ai/share/06cacdb7-774f-407c-82c8-b4b15f7507b4
 landing page that links out to the WhatsApp Catalog" or "the original website 
 concept and design assets, kept for reference"].
